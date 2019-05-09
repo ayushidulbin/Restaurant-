@@ -1,0 +1,26 @@
+body{
+	margin:0;
+	padding:0;
+	background:url(dishes2.jpg);
+	background-size: cover;
+	/*background-position:all;*/
+	font-family: sans-serif;
+	background-position:100% 40%;
+    75% 0,
+    100%,
+    20px 20px,
+    50%,
+    0 90%;
+
+}
+.backdiv{
+	text-align: center;
+	height: 100%;
+	width: 100%;
+	color: #fff;
+	float: left;
+}
+p{
+	color: #FFcc99;
+	font-size: 20px;
+}
